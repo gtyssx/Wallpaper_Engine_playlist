@@ -1,0 +1,2 @@
+# Wallpaper_Engine_playlist
+对在Wallpaper Engine中已订阅并下载的视频类以m3u8格式的播放列表，推荐使用potplayer播放
